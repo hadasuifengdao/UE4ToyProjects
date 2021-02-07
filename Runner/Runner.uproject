@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F709775E-40A5-3816-9E67-F18FE8F18AA6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Runner",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}
