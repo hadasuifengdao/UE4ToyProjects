@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{42D578D6-431A-4D7B-3C26-A190E9565AE9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FlatPeach",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule",
+				"Slate",
+				"SlateCore"
+			]
+		}
+	]
+}
